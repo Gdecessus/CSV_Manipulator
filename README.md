@@ -1,6 +1,6 @@
 #              Manipulation of CSV
 
-When tasked with manipulating a 30k + entries CSV based off a input or partial input in another column, the creation of this script was a must.
+When I tasked with manipulating a 30k + entries CSV based off a input or partial input in another column, the creation of this script was a must.
 Saved me hundreds of hours in my internship at Dublin City Council ICT department 
 
 
