@@ -31,3 +31,10 @@ this is a nice way of bulk-editing your CSV, making this a powerful script for t
 
 This file will change the structure of your CSV, making sure to leave only the columns you require,
 this can be useful if you need to work on anything that you require a clear and less problematic view of your CSV.
+
+# EXCEL function
+
+Depending on your use of this script, you'll come across the task of identifying duplicates in the CSV
+it doesnt necessarily means that the duplicates have to be on the same row, for instance,
+imagine that you are trying to check if IP addresses on column C exists on column D,
+you'll then use this function =COUNTIF($D:$D,C1)>0 and you should get true/false outcome.
