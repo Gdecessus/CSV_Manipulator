@@ -24,8 +24,8 @@ while the other alters the whole structure of the document, leaving one fields t
 
 # Analysis
 
-This file is will give you a CSV file with the same structure as the one it is given as a dataframe,
-this is a nice way of bulk-editing your CSV, making this a powerful script for that sense.
+This file will give you a CSV file with the same structure as the one it is given as a dataframe,
+this is a nice way of bulk-editing your CSV, making this a powerful script for that purpose.
 
 # Analysis2
 
